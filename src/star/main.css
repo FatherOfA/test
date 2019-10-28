@@ -1,0 +1,7 @@
+.user-table{
+    width:100%;
+}
+
+.user-table thead{
+    background:red;
+}
